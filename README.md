@@ -5,8 +5,8 @@
 ```javascript
 const edvan = {
   pronouns: "he" | "him",
-  code: [C, C++, HTML, CSS],
-  learn: ["JS", "TS", "Python"],
+  code: [C, C++],
+  learn: ["JS", "TS", "Python", "HTML", "CSS"],
   hobbies: {
                         program: "Focused on python",
                         listen_music: "Tyler the creator, Frank Ocean, Kendrick Lamar",
