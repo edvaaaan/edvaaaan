@@ -6,7 +6,7 @@
 const edvan = {
   pronouns: "he" | "him",
   code: [C, C++],
-  learn: ["JS", "TS", "Python", "HTML", "CSS"],
+  learn: ["JS", "Python", "HTML", "CSS"],
   hobbies: {
                         program: "Focused on python",
                         listen_music: "Tyler the creator, Frank Ocean, Kendrick Lamar",
