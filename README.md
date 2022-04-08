@@ -4,7 +4,7 @@
 ```diff
 Hi, I'm Edvan 🧘🏽‍♂️.
 
-@@I'm a computer science studant at UFCG@@
+@@ I'm a computer science studant at UFCG @@
 
 + 🏠 Living in Paraíba, Brazil 
 - 👨🏽‍💻 18 years old
