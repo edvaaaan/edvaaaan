@@ -7,6 +7,6 @@ Hi, I'm Edvan 🧘🏽‍♂️.
 @@ I'm a computer science studant at UFCG @@
 
 + 🏠 Living in Paraíba, Brazil 
-- 👨🏽‍💻 18 years old
+- 👨🏽‍💻 19 years old
 ! 📖 Learning: Python, HTML, CSS, JS
 ```
