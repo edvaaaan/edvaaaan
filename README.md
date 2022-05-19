@@ -17,4 +17,4 @@ Hi, I'm Edvan 🧘🏽‍♂️.
 
 ##
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=edvaaaan&theme=github-dark&hide_border=true&fire=38D252)](https://git.io/streak-stats)
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edvaaaan&layout=compact&langs_count=7&theme=github_dark&title_color=38D252&hide_border=False"/>
+<img align="center" height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edvaaaan&layout=compact&langs_count=7&theme=github_dark&title_color=38D252&hide_border=False"/>
