@@ -1,5 +1,5 @@
 ```diff
-H , I'm Edvan 🧘🏽‍♂️.
+Hi, I'm Edvan 🧘🏽‍♂️.
 
 @@ I'm a computer science studant at UFCG @@
 
