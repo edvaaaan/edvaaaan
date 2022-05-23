@@ -1,8 +1,5 @@
-<img align="right" height="150" src="https://media.giphy.com/media/kYDFO3rkOHrkQ/giphy.gif"/>
-<img align="left" height="200" src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif"/>
-
 ```diff
-Hi, I'm Edvan 🧘🏽‍♂️.
+H , I'm Edvan 🧘🏽‍♂️.
 
 @@ I'm a computer science studant at UFCG @@
 
@@ -10,9 +7,3 @@ Hi, I'm Edvan 🧘🏽‍♂️.
 - 👨🏽‍💻 19 years old
 ! 📖 Learning: Python, HTML, CSS, JS
 ```
-
-
-&nbsp;
-
-
-##
