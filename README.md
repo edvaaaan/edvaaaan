@@ -1,9 +1,9 @@
 ```diff
-Hi, I'm Edvan 🧘🏽‍♂️.
+HI, I'M EDVAN 🧘🏽‍♂️.
 
-@@ I'm a computer science student at UFCG @@
+@@ I'M A COMPUTER SCIENCE STUDENT AT UFCG @@
 
-+ 🏠 Living in Paraíba, Brazil 
-- 👨🏽‍💻 19 years old
-! 📖 Learning: Python, HTML, CSS, JS
++ 🏠 LIVING IN PARAIBA, BRAZIL
+- 👨🏽‍💻 19 YEARS OLD
+! 📖 LEARNING: PYTHON, JAVA
 ```
