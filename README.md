@@ -8,7 +8,7 @@ HI, I'M EDVAN 🧘🏽‍♂️.
 ! 📖 SKILLS: PYTHON & JAVA
 ```
 <h1 align="center">
-  <p> GITHUB STATS 😁 </p>
+  <p> - </p>
 </h1>
 
 <div align="center">  
