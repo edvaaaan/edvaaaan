@@ -5,8 +5,11 @@ HI, I'M EDVAN 🧘🏽‍♂️.
 
 + 🏠 LIVING IN PARAIBA, BRAZIL
 - 👨🏽‍💻 21 YEARS OLD
-! 📖 LEARNING: PYTHON, JAVA
+! 📖 SKILLS: PYTHON & JAVA
 ```
+<h1 align="center">
+  <p> GITHUB STATS 😁 </p>
+</h1>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=edvaaaan&show_icons=true&count_private=true&hide_border=true&title_color=D8BFD8&icon_color=D8BFD8&text_color=D8BFD8&bg_color=0d1117" alt="Edvan Monteiro github stats" /> 
