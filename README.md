@@ -1,8 +1,4 @@
-```diff
-HI, I'M EDVAN 🧘🏽‍♂️.
 
-@@ I'M A COMPUTER SCIENCE STUDENT AT UFCG @@
-```
 <h1 align="center">
   <p> - </p>
 </h1>
