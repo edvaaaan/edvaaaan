@@ -2,10 +2,6 @@
 HI, I'M EDVAN 🧘🏽‍♂️.
 
 @@ I'M A COMPUTER SCIENCE STUDENT AT UFCG @@
-
-+ 🏠 LIVING IN PARAIBA, BRAZIL
-- 👨🏽‍💻 21 YEARS OLD
-! 📖 SKILLS: PYTHON & JAVA
 ```
 <h1 align="center">
   <p> - </p>
